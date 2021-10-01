@@ -1,0 +1,10 @@
+도서명,Apple,Compiler,HTML5,Python,Samsung,ROS,Programming,Apple,C,start_goal_simul,start_goal_map
+서가 위치,A열,B열,C열,D열,E열,F열,G열,H열,I열,X,X
+책장 위,1층,1층,1층,2층,2층,2층,3층,3층,3층,X,X
+goal.pose.position.x,2.184999,0.878035,0.878035,1.615,0.835,2.674999,2.504999,2.184999,0.195,-2,1.525
+goal.pose.position.y,-3.089999,-1.629006,-1.629006,-1.65,-2.98,-0.1,-1.53,-3.089999,0.23,-0.4,0.27
+goal.pose.position.z,0,0,0,0,0,0,0,0,0,0,0
+goal.pose.orientation.x,0,0,0,0,0,0,0,0,0,0,0
+goal.pose.orientation.y,0,0,0,0,0,0,0,0,0,0,0
+goal.pose.orientation.z,0.9,1,1,0,0.999407,0,0.026288,0.9,0.999941,0,-0.7
+goal.pose.orientation.w,0.3,0,0,1,0.034421,1,0.998697,0.3,-0.010868,0.9,0.6

@@ -1,0 +1,6 @@
+<launch>
+  <node name="destination" pkg="destination" type="destination" respawn="false" />
+  
+  <node name="move_base" pkg="move_base" type="move_base" respawn="false"/>
+
+</launch>

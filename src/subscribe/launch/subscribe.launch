@@ -1,0 +1,5 @@
+<launch>
+  <node name="subscribe_sub" pkg="subscribe" type="subscribe_sub" respawn="false" output="screen">
+    <param name="autosize" value="true" />
+  </node>
+</launch>
